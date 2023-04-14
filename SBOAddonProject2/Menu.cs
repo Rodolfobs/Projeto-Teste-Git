@@ -19,7 +19,7 @@ namespace SBOAddonProject2
             oMenuItem = Application.SBO_Application.Menus.Item("43520"); // moudles'
 
             oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_POPUP;
-            oCreationPackage.UniqueID = "SBOAddonProject2";
+            oCreationPackage.UniqueID = "SBOAddonProject";
             oCreationPackage.String = "SBOAddonProject2";
             oCreationPackage.Enabled = true;
             oCreationPackage.Position = -1;
