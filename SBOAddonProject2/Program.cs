@@ -18,6 +18,7 @@ namespace SBOAddonProject2
                 if (args.Length < 1)
                 {
                     oApp = new Application();
+
                 }
                 else
                 {
